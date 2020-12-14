@@ -7,10 +7,12 @@
 } */
 .field-wrap{
   background-color: rgba(0,0,0,.5);
-  width: 40%;
-  height: 75%;
-  margin: 0 auto;
-  padding: 50px 20px;
+  width: 70%;
+  height: 100vh;
+  margin:auto;
+  padding: 0 20px;
+  text-align: center;
+  
 }
 .field{
   /* width: 400px;
@@ -49,7 +51,7 @@ h1{
   color: rgb(255, 150, 0);
   letter-spacing: 5px;
   text-align: center;
-  margin: 50px 0 0;
+  /* margin: 50px 0 0; */
 }
 h3{
   text-align: center;
@@ -57,6 +59,21 @@ h3{
   text-transform: uppercase;
   font-weight: 100;
   letter-spacing: 3px;
+}
+.buttons-wrap{
+ display: inline-block;
+ margin-bottom: 50px;
+}
+button{
+  padding: 10px 40px;
+  background-color: rgb(136, 173, 0);
+  outline: none;
+  font-size: 24px;
+  border-style: none;
+  margin: 0 20px;
+}
+button:hover{
+  background-color: rgb(153, 196, 0);;
 }
 .result{
   background-color: #ffcd00;
