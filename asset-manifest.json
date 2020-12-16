@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test_task-Game_of_Life/static/css/main.6fe83335.chunk.css",
+    "main.js": "/test_task-Game_of_Life/static/js/main.eeaae266.chunk.js",
+    "main.js.map": "/test_task-Game_of_Life/static/js/main.eeaae266.chunk.js.map",
+    "runtime-main.js": "/test_task-Game_of_Life/static/js/runtime-main.0763a760.js",
+    "runtime-main.js.map": "/test_task-Game_of_Life/static/js/runtime-main.0763a760.js.map",
+    "static/js/2.e74e0bc5.chunk.js": "/test_task-Game_of_Life/static/js/2.e74e0bc5.chunk.js",
+    "static/js/2.e74e0bc5.chunk.js.map": "/test_task-Game_of_Life/static/js/2.e74e0bc5.chunk.js.map",
+    "index.html": "/test_task-Game_of_Life/index.html",
+    "static/css/main.6fe83335.chunk.css.map": "/test_task-Game_of_Life/static/css/main.6fe83335.chunk.css.map",
+    "static/js/2.e74e0bc5.chunk.js.LICENSE.txt": "/test_task-Game_of_Life/static/js/2.e74e0bc5.chunk.js.LICENSE.txt",
+    "static/media/background.fbb7999e.jpg": "/test_task-Game_of_Life/static/media/background.fbb7999e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0763a760.js",
+    "static/js/2.e74e0bc5.chunk.js",
+    "static/css/main.6fe83335.chunk.css",
+    "static/js/main.eeaae266.chunk.js"
+  ]
+}
